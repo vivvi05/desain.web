@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -657,8 +657,7 @@
       <textarea name="pesan" placeholder="Tulis pesan Anda di sini..." required></textarea>
       <button type="submit">Kirim Pesan</button>
     </form>
-  </section>
-</section>
+ 
 
 <footer>
   <p>© 2025 WORN.IN. Semua hak cipta dilindungi.</p>
@@ -693,5 +692,3 @@
   </div>
 </footer>
 
-</body>
-</ht
